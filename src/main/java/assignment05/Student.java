@@ -50,8 +50,8 @@ public class Student {
 
     public String toString() {
         return "[ID: " + studentId + "] Name: " + getStudentFullName() +
-                " | GPA: " +  gpa +
-                " | Enrolled: " + isEnrolled;
+                " GPA: " +  gpa +
+                " Enrolled: " + isEnrolled;
     }
 }
 
