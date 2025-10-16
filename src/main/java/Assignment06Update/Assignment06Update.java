@@ -1,9 +1,9 @@
-package main.java.assignment06;
+package main.java.Assignment06Update;
 
 import java.sql.*;
 import java.util.Scanner;
 
-public class assignment06 {
+public class Assignment06Update {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3307/mydatabase";
         String user = "root";
@@ -121,3 +121,4 @@ public class assignment06 {
         }
     }
 }
+
